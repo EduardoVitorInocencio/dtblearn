@@ -37,4 +37,3 @@ models:
       +materialized: table
     src:
       +materialized: ephemeral
-    
